@@ -1,0 +1,102 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "todo": "Animations",
+      "status": "IN PROGRESS",
+      "createdBy": "2711bharath@gmail.com",
+      "createdAt": "1/13/2022, 3:20:51 PM"
+    },
+    {
+      "id": 2,
+      "todo": "Machine Learning",
+      "status": "IN PROGRESS",
+      "createdBy": "2711bharath@gmail.com",
+      "createdAt": "1/13/2022, 3:21:08 PM"
+    },
+    {
+      "todo": "Nextjs",
+      "status": "ON HOLD",
+      "createdBy": "2711bharath@gmail.com",
+      "createdAt": "1/13/2022, 3:21:19 PM",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "todo": "GraphQl",
+      "status": "ON HOLD",
+      "createdBy": "2711bharath@gmail.com",
+      "createdAt": "1/13/2022, 3:21:29 PM"
+    },
+    {
+      "id": 5,
+      "todo": "Vuex",
+      "status": "APPROVED",
+      "createdBy": "2711bharath@gmail.com",
+      "createdAt": "1/13/2022, 3:21:45 PM"
+    },
+    {
+      "id": 6,
+      "todo": "vue-router",
+      "status": "NEEDS REVIEW",
+      "createdBy": "2711bharath@gmail.com",
+      "createdAt": "1/13/2022, 3:21:52 PM"
+    },
+    {
+      "todo": "Cloud Computing",
+      "status": "ON HOLD",
+      "createdBy": "2711bharath@gmail.com",
+      "createdAt": "1/13/2022, 3:22:11 PM",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "todo": "Nodejs",
+      "status": "NEEDS REVIEW",
+      "createdBy": "2711bharath@gmail.com",
+      "createdAt": "1/13/2022, 3:22:32 PM"
+    },
+    {
+      "todo": "Angular CLI",
+      "status": "APPROVED",
+      "createdBy": "2711bharath@gmail.com",
+      "createdAt": "1/13/2022, 3:22:43 PM",
+      "id": 9
+    },
+    {
+      "todo": "Firebase",
+      "status": "APPROVED",
+      "createdBy": "2711bharath@gmail.com",
+      "createdAt": "1/13/2022, 3:22:48 PM",
+      "id": 10
+    },
+    {
+      "id": 11,
+      "todo": "MongoDB",
+      "status": "NEEDS REVIEW",
+      "createdBy": "ganeshgood@gmail.com",
+      "createdAt": "1/13/2022, 3:24:03 PM"
+    },
+    {
+      "id": 13,
+      "todo": "Deep Learning",
+      "status": "ON HOLD",
+      "createdBy": "ganeshgood@gmail.com",
+      "createdAt": "1/13/2022, 3:25:43 PM"
+    }
+  ],
+  "users": [
+    {
+      "name": "Madha Bharath Reddy",
+      "email": "2711bharath@gmail.com",
+      "password": "$2a$10$WP9DghF9QQIGnAW8aKBRv.6kirqizRJuFNnqR8Ms7fIY2CAU7WSJm",
+      "id": 1
+    },
+    {
+      "name": "Ganesh Reddy",
+      "email": "ganeshgood@gmail.com",
+      "password": "$2a$10$m1fjusHtXJ0bqyA.ta9nHOgm5Ws8jugAUp3AijbloSzQ8hm3fXyme",
+      "id": 2
+    }
+  ]
+}
